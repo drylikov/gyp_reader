@@ -1,0 +1,18 @@
+{
+  "author": " <> ()",
+  "name": "gyp_reader",
+  "description": "A gyp file reader for node",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/gyp_reader.git"
+  },
+  "main": "gyp_reader.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": ""
+  }
+}
